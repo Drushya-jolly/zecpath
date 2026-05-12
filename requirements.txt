@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+transformers
+sentence-transformers
+opencv-python
+mediapipe
+speechrecognition
+pydub
+pytest
+loguru
+python-dotenv
