@@ -3,12 +3,8 @@ uvicorn
 pandas
 numpy
 scikit-learn
+openai
+langchain
 transformers
-sentence-transformers
-opencv-python
-mediapipe
-speechrecognition
-pydub
-pytest
-loguru
 python-dotenv
+pytest

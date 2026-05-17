@@ -1,9 +1,9 @@
-from loguru import logger
+import logging
 
-logger.add(
-    "logs/ai_system.log",
-    rotation="5 MB",
-    level="INFO"
+logging.basicConfig(
+    filename='logs/ai_system.log',
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-logger.info("AI System Started")
+logger = logging.getLogger()
