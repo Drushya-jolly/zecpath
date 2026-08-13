@@ -1,0 +1,80 @@
+[
+    {
+        "candidate_name": "DrushyaJolly_Resume_Axcess",
+        "candidate_score": 54.39,
+        "role": "developer",
+        "breakdown": {
+            "skill_match": "66.67%",
+            "experience_relevance": "49%",
+            "education_alignment": "100%",
+            "semantic_similarity": "23.799999237060547%"
+        },
+        "rank": 1,
+        "status": "Review"
+    },
+    {
+        "candidate_name": "DrushyaJolly_Resume_NeST",
+        "candidate_score": 51.47,
+        "role": "developer",
+        "breakdown": {
+            "skill_match": "66.67%",
+            "experience_relevance": "49%",
+            "education_alignment": "100%",
+            "semantic_similarity": "14.0600004196167%"
+        },
+        "rank": 2,
+        "status": "Review"
+    },
+    {
+        "candidate_name": "DrushyaJolly_Resume",
+        "candidate_score": 50.52,
+        "role": "developer",
+        "breakdown": {
+            "skill_match": "66.67%",
+            "experience_relevance": "49%",
+            "education_alignment": "100%",
+            "semantic_similarity": "10.899999618530273%"
+        },
+        "rank": 3,
+        "status": "Review"
+    },
+    {
+        "candidate_name": "Diya Jolly - HR IT Recruiter",
+        "candidate_score": 15.34,
+        "role": "developer",
+        "breakdown": {
+            "skill_match": "33.33%",
+            "experience_relevance": "0%",
+            "education_alignment": "0%",
+            "semantic_similarity": "17.790000915527344%"
+        },
+        "rank": 4,
+        "status": "Reject"
+    },
+    {
+        "candidate_name": "Jomol Britty's Resume",
+        "candidate_score": 3.98,
+        "role": "developer",
+        "breakdown": {
+            "skill_match": "0.0%",
+            "experience_relevance": "0%",
+            "education_alignment": "0%",
+            "semantic_similarity": "13.279999732971191%"
+        },
+        "rank": 5,
+        "status": "Reject"
+    },
+    {
+        "candidate_name": "_Aryaganga K_HRM_resume  (2)",
+        "candidate_score": 3.37,
+        "role": "developer",
+        "breakdown": {
+            "skill_match": "0.0%",
+            "experience_relevance": "0%",
+            "education_alignment": "0%",
+            "semantic_similarity": "11.220000267028809%"
+        },
+        "rank": 6,
+        "status": "Reject"
+    }
+]

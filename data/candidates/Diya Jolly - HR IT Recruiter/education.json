@@ -1,0 +1,66 @@
+{
+    "education": {
+        "degree": [
+            "MBA"
+        ],
+        "field_of_study": [
+            "Computer Science",
+            "Artificial Intelligence",
+            "Business Administration"
+        ],
+        "institution": [
+            "Bachelor of Technology \u2013 Computer Science",
+            "High School Diploma",
+            "Training Workshop",
+            "Web Preneurship (NIT Calicut)",
+            "Artificial Intelligence (Pacelab, Kochi)",
+            "Drone Workshop (Ascendio,Kochi)"
+        ],
+        "graduation_year": [
+            "2022",
+            "2025",
+            "2018",
+            "2016",
+            "2027"
+        ]
+    },
+    "certifications": [
+        {
+            "name": "Microsoft Certified: DP 900",
+            "category": "General"
+        },
+        {
+            "name": "Microsoft Certified: AZ 900",
+            "category": "General"
+        },
+        {
+            "name": "Oracle Foundation and AI",
+            "category": "General"
+        },
+        {
+            "name": "Managing Project Risks and Changes (Coursera)",
+            "category": "General"
+        },
+        {
+            "name": "Languages Known",
+            "category": "General"
+        },
+        {
+            "name": "English (Proficient)",
+            "category": "General"
+        },
+        {
+            "name": "Malayalam(Native)",
+            "category": "General"
+        },
+        {
+            "name": "Hindi(Beginner)",
+            "category": "General"
+        },
+        {
+            "name": "Tamil(Beginner)",
+            "category": "General"
+        }
+    ],
+    "education_relevance": 0
+}

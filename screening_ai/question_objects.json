@@ -1,0 +1,19 @@
+[
+    {
+        "question_id": "Q1",
+        "text": {
+            "en": "Can you introduce yourself?"
+        },
+        "category": "introduction",
+        "expected_answer_type": "text",
+        "mandatory": true,
+        "importance": 5,
+        "follow_up": [
+            "Can you highlight your strengths?"
+        ],
+        "evaluation_criteria": [
+            "communication",
+            "confidence"
+        ]
+    }
+]

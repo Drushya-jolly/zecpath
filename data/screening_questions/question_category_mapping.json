@@ -1,0 +1,30 @@
+{
+    "introduction": {
+        "description": "Basic candidate introduction",
+        "weight": 10
+    },
+    "education": {
+        "description": "Educational qualification",
+        "weight": 15
+    },
+    "experience": {
+        "description": "Professional experience",
+        "weight": 20
+    },
+    "skills": {
+        "description": "Technical and soft skills",
+        "weight": 25
+    },
+    "location": {
+        "description": "Current location and relocation",
+        "weight": 10
+    },
+    "salary": {
+        "description": "Expected salary",
+        "weight": 10
+    },
+    "notice_period": {
+        "description": "Availability to join",
+        "weight": 10
+    }
+}

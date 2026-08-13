@@ -1,0 +1,7 @@
+{
+    "resume_normalized": true,
+    "semantic_matching_used": true,
+    "keyword_only_matching": false,
+    "personal_information_masked": false,
+    "score_range": "0-100"
+}

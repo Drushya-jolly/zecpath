@@ -1,0 +1,17 @@
+{
+    "candidate_name": "_Aryaganga K_HRM_resume  (2)",
+    "role": "developer",
+    "ats_score": 3.37,
+    "eligibility_status": "Rejected",
+    "checks": {
+        "score_match": false,
+        "required_skills": [
+            "python",
+            "sql"
+        ],
+        "matched_skills": [],
+        "mandatory_skills_match": false,
+        "experience_match": true,
+        "education_match": false
+    }
+}

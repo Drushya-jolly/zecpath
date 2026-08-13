@@ -1,0 +1,30 @@
+[
+    {
+        "candidate_name": "DrushyaJolly_Resume_Mitsogo",
+        "expected_status": "Review"
+    },
+    {
+        "candidate_name": "DrushyaJolly_Resume_Aurus",
+        "expected_status": "Review"
+    },
+    {
+        "candidate_name": "DrushyaJolly_Resume_Mantle",
+        "expected_status": "Review"
+    },
+    {
+        "candidate_name": "Drushya_Res",
+        "expected_status": "Review"
+    },    
+    {
+        "candidate_name": "Diya Jolly - HR IT Recruiter",
+        "expected_status": "Reject"
+    },
+    {
+        "candidate_name": "Jomol Britty's Resume",
+        "expected_status": "Reject"
+    },
+    {
+        "candidate_name": "_Aryaganga K_HRM_resume  (2)",
+        "expected_status": "Reject"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "education": {
+        "degree": [
+            "MBA",
+            "BBA"
+        ],
+        "field_of_study": [],
+        "institution": [
+            "Amity university.",
+            "Madurai Kamaraj university ,",
+            "IATA : Airport Operations",
+            "Fundamentals , ( Certified in"
+        ],
+        "graduation_year": [
+            "2018",
+            "2020"
+        ]
+    },
+    "certifications": [
+        {
+            "name": "Certificate in SHRM",
+            "category": "General"
+        },
+        {
+            "name": "Information security",
+            "category": "General"
+        },
+        {
+            "name": "Awareness",
+            "category": "General"
+        }
+    ],
+    "education_relevance": 0
+}

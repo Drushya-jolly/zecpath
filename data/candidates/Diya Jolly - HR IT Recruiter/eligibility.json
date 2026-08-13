@@ -1,0 +1,19 @@
+{
+    "candidate_name": "Diya Jolly - HR IT Recruiter",
+    "role": "developer",
+    "ats_score": 15.34,
+    "eligibility_status": "Rejected",
+    "checks": {
+        "score_match": false,
+        "required_skills": [
+            "python",
+            "sql"
+        ],
+        "matched_skills": [
+            "sql"
+        ],
+        "mandatory_skills_match": false,
+        "experience_match": true,
+        "education_match": false
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "other": [
+        "DRUSHYA JOLLY",
+        "Kochi, Kerala | drush1004@gmail.com | 9539061787 | LinkedIn | GitHub"
+    ],
+    "career_objective": [
+        "Final-year Computer Science student with a strong foundation in Python, SQL and object-oriented"
+    ],
+    "experience": [
+        "\uf0b7",
+        "Intern \u2013 Development, OHO Solutions, Vyttila, Kerala 11 June 2025 \u2013 20 June 2025",
+        "Developed an emotion detection web application using DeepFace, OpenCV."
+    ],
+    "education": [
+        "B.Tech in Computer Science & Engineering",
+        "SCMS School of Engineering and Technology, Ernakulam",
+        "CGPA: 8.84",
+        "Higher Secondary",
+        "St. Francis HSS for Girls, Aluva"
+    ],
+    "skills": [
+        "\uf0b7",
+        "Discipline",
+        "\uf0b7",
+        "Team Collaboration",
+        "\uf0b7",
+        "Adaptability"
+    ],
+    "projects": [
+        "\uf0b7",
+        "CyberTrace - Explainable RAG based Cybersecurity Chatbot 15 July 2025 \u2013 25 March 2026",
+        "o Developed a RAG-based system using LLM and vector database for cybersecurity queries",
+        "o Implemented semantic search with 768-dimensional embeddings.",
+        "o Integrated a malware detection module and ensured explainable, context-aware responses",
+        "\uf0b7",
+        "Emotion Detection Website",
+        "o Built a web application to detect user emotions using DeepFace.",
+        "o Technologies: Python, OpenCV, DeepFace, HTML, CSS",
+        "\uf0b7",
+        "Sign Language Conversion",
+        "o Developed a real-time sign language recognition system converting hand gestures to text.",
+        "o Technologies: Python, MediaPipe, TensorFlow"
+    ],
+    "certifications": [
+        "\uf0b7",
+        "Udemy - RAG Bootcamp: Build, Optimize, and Deploy AI Apps",
+        "\uf0b7",
+        "Infosys Springboard - Internet of Things",
+        "\uf0b7",
+        "Simplilearn SkillUp - Introduction to Cloud Computing",
+        "\uf0b7",
+        "Intellipaat - DevOps",
+        "Extracurricular",
+        "\uf0b7",
+        "Volunteer at Kerala Innovation Festival 2025",
+        "\uf0b7",
+        "ASCENDIO Volunteer",
+        "\uf0b7",
+        "GANITHAM Teaching Program"
+    ]
+}

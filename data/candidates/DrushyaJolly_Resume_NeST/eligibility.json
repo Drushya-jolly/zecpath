@@ -1,0 +1,20 @@
+{
+    "candidate_name": "DrushyaJolly_Resume_NeST",
+    "role": "developer",
+    "ats_score": 51.47,
+    "eligibility_status": "Eligible",
+    "checks": {
+        "score_match": true,
+        "required_skills": [
+            "python",
+            "sql"
+        ],
+        "matched_skills": [
+            "python",
+            "sql"
+        ],
+        "mandatory_skills_match": true,
+        "experience_match": true,
+        "education_match": true
+    }
+}

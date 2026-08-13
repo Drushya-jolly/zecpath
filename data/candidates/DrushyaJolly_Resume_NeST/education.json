@@ -1,0 +1,47 @@
+{
+    "education": {
+        "degree": [
+            "B.Tech"
+        ],
+        "field_of_study": [
+            "Computer Science"
+        ],
+        "institution": [
+            "SCMS School of Engineering and Technology, Ernakulam",
+            "Higher Secondary",
+            "St. Francis HSS for Girls, Aluva"
+        ],
+        "graduation_year": []
+    },
+    "certifications": [
+        {
+            "name": "Infosys springboard - Internet of Things",
+            "category": "IoT"
+        },
+        {
+            "name": "Simplilearn SkillUp \u2013 Introduction to Cloud Computing",
+            "category": "Cloud"
+        },
+        {
+            "name": "Intellipaat - DevOps",
+            "category": "DevOps"
+        },
+        {
+            "name": "Extracurricular",
+            "category": "General"
+        },
+        {
+            "name": "Volunteer at Kerala Innovation Festival 2025",
+            "category": "General"
+        },
+        {
+            "name": "ASCENDIO volunteer",
+            "category": "General"
+        },
+        {
+            "name": "GANITHAM teaching program",
+            "category": "General"
+        }
+    ],
+    "education_relevance": 100
+}

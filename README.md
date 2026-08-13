@@ -65,3 +65,79 @@ python main.py
 ```bash
 pytest tests/
 ```
+
+---
+
+## API
+
+### Start AI Screening
+
+**Endpoint**
+
+```
+POST /screening/start
+```
+
+**Sample Request**
+
+```json
+{
+  "candidate_id": "C101",
+  "job_id": "J501",
+  "answers": [],
+  "scores": [],
+  "behavior": []
+}
+```
+
+**Sample Response**
+
+```json
+{
+  "candidate_id": "C101",
+  "job_id": "J501",
+  "final_score": 82.5,
+  "decision": "Proceed"
+}
+```
+
+---
+
+## Output
+
+The system generates a structured AI screening report containing:
+
+- Candidate ID
+- Job ID
+- Final Screening Score
+- Hiring Decision
+- Candidate Strengths
+- Risk Factors
+- Missing Information
+- Salary Expectation
+- Availability
+- Confirmed Skills
+- Candidate Answers
+
+---
+
+## Technologies Used
+
+- Python
+- Flask
+- PyTest
+- JSON
+- Regular Expressions
+- Sentence Transformers
+- FAISS
+- LangChain
+
+---
+
+## Future Improvements
+
+- LLM-based reasoning for interview evaluation
+- Multilingual AI interviews
+- Real-time speech recognition
+- Cloud deployment
+- Recruiter dashboard

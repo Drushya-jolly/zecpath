@@ -1,0 +1,70 @@
+{
+    "other": [
+        "DRUSHYA JOLLY",
+        "Kochi,Kerala | drush1004@gmail.com | 9539061787 | LinkedIn | GitHub"
+    ],
+    "career_objective": [
+        "Final-year Computer Science student with a strong foundation in Python and SQL, seeking an entry-level",
+        "Cloud Engineer role to build strong fundamentals in cloud infrastructure, deployment, and security while"
+    ],
+    "projects": [
+        "\uf0b7",
+        "Emotion Detection Website",
+        "o Built a web application to detect user emotions using DeepFace.",
+        "o Technologies: Python, OpenCV, DeepFace, HTML, CSS",
+        "\uf0b7",
+        "Sign Language Conversion",
+        "o Developed a real-time sign language recognition system converting hand gestures to",
+        "text.",
+        "o Technologies: MediaPipe, TensorFlow, Python",
+        "\uf0b7",
+        "CyberTrace - Explainable RAG based Cybersecuriry Chatbot 15 July 2025 \u2013 present",
+        "o Built a cybersecurity chatbot using LLMs and Retrieval-Augmented Generation (RAG).",
+        "o Used LangChain and vector databases to deliver accurate threat intelligence."
+    ],
+    "education": [
+        "\uf0b7",
+        "B.Tech in Computer Science & Engineering",
+        "SCMS School of Engineering and Technology, Ernakulam",
+        "\uf0b7",
+        "Higher Secondary",
+        "St. Francis HSS for girs, Aluva"
+    ],
+    "skills": [
+        "\uf0b7",
+        "C, Python",
+        "\uf0b7",
+        "SQL",
+        "\uf0b7",
+        "HTML,CSS,JS",
+        "\uf0b7",
+        "React (Basics \u2013 Currently Learning)",
+        "\uf0b7",
+        "Mediapipe, TensorFlow, LangChain",
+        "\uf0b7",
+        "Discipline",
+        "\uf0b7",
+        "Willingness to learn",
+        "\uf0b7",
+        "Team player",
+        "\uf0b7",
+        "Adaptability"
+    ],
+    "experience": [
+        "\uf0b7",
+        "Intern \u2013 Development, OHO Solutions, Vytila, Kerala 11June 2025 \u2013 20 June 2025",
+        "Developed an emotion detection web application using HTML, CSS, JS and Python"
+    ],
+    "certifications": [
+        "\uf0b7 Infosys springboard - Internet of Things",
+        "\uf0b7",
+        "AWS Training & Certification \u2013 Introduction to Generative AI: Art of the Possible",
+        "\uf0b7",
+        "Simplilearn SkillUp \u2013 Introduction to Cloud Computing",
+        "Extracurricular",
+        "\uf0b7 Volunteer at Kerala Innovation Festival 2025",
+        "\uf0b7 ASCENDIO volunteer",
+        "\uf0b7 GANITHAM teaching program",
+        "\uf0b7 Participant in hackathons conducted by Tinkerhub"
+    ]
+}

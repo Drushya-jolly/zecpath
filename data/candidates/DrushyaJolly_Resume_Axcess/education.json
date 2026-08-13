@@ -1,0 +1,51 @@
+{
+    "education": {
+        "degree": [
+            "B.Tech"
+        ],
+        "field_of_study": [
+            "Computer Science"
+        ],
+        "institution": [
+            "SCMS School of Engineering and Technology, Ernakulam",
+            "Higher Secondary",
+            "St. Francis HSS for girs, Aluva"
+        ],
+        "graduation_year": []
+    },
+    "certifications": [
+        {
+            "name": "\uf0b7 Infosys springboard - Internet of Things",
+            "category": "IoT"
+        },
+        {
+            "name": "AWS Training & Certification \u2013 Introduction to Generative AI: Art of the Possible",
+            "category": "Cloud"
+        },
+        {
+            "name": "Simplilearn SkillUp \u2013 Introduction to Cloud Computing",
+            "category": "Cloud"
+        },
+        {
+            "name": "Extracurricular",
+            "category": "General"
+        },
+        {
+            "name": "\uf0b7 Volunteer at Kerala Innovation Festival 2025",
+            "category": "General"
+        },
+        {
+            "name": "\uf0b7 ASCENDIO volunteer",
+            "category": "General"
+        },
+        {
+            "name": "\uf0b7 GANITHAM teaching program",
+            "category": "General"
+        },
+        {
+            "name": "\uf0b7 Participant in hackathons conducted by Tinkerhub",
+            "category": "General"
+        }
+    ],
+    "education_relevance": 100
+}

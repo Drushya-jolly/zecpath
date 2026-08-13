@@ -1,0 +1,17 @@
+{
+    "technical_skills": {
+        "Git": 0.6,
+        "Github": 0.6,
+        "Python": 0.6,
+        "Sql": 1.0,
+        "Cloud": 0.6,
+        "Rag": 0.8,
+        "Langchain": 1.0,
+        "Javascript": 0.6,
+        "React": 1.0
+    },
+    "soft_skills": [
+        "adaptability",
+        "discipline"
+    ]
+}
